@@ -1,0 +1,114 @@
+{
+  "name": "Purple Serenity Soft",
+  "description": "Dark purple background with soft gray accents (bdeditor style).",
+  "version": "2.2.0",
+  "authors": [
+    {
+      "name": "Cyclone",
+      "id": "605791172530536449"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#f1f1f1"
+    ],
+    "HEADER_SECONDARY": [
+      "#c8c8c8"
+    ],
+    "TEXT_NORMAL": [
+      "#f5f5f5"
+    ],
+    "TEXT_MUTED": [
+      "#a8a8a8"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#d0d0d0"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#a8a8a8"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ffffff"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#888888"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#120212"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#1a091a"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#201120"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#261426"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#2d152d"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255,255,255,0.04)"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255,255,255,0.06)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255,255,255,0.08)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255,255,255,0.10)"
+    ],
+    "TEXT_LINK": [
+      "#cfcfcf"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#151515"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#2d152d"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#d0d0d0"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#c8c8c8"
+    ],
+    "CHANNEL_ICON": [
+      "#d0d0d0"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#ffffff",
+    "PRIMARY_200": "#e0e0e0",
+    "PRIMARY_300": "#cfcfcf",
+    "PRIMARY_400": "#a8a8a8",
+    "PRIMARY_500": "#8a8a8a",
+    "PRIMARY_600": "#6f6f6f",
+    "PRIMARY_700": "#120212",
+    "PRIMARY_800": "#1a091a",
+    "GREEN_260": "#43b581",
+    "RED_260": "#ed4245"
+  },
+  "plus": {
+    "version": "0",
+    "customOverlays": true,
+    "icons": {
+      "ic_radio_circle_checked": "#d0d0d0",
+      "ic_radio_square_checked_24px": "#d0d0d0",
+      "ic_selection_checked_24px": "#d0d0d0",
+      "StatusOnline": "#43b581",
+      "StatusIdle": "#faa61a",
+      "StatusDND": "#ed4245",
+      "StatusOffline": "#6b6b6b",
+      "StatusStreaming": "#9147ff"
+    }
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://i.postimg.cc/TPCg9Z29/9e54f24ddd7656e1725783ab23a66daa.jpg",
+    "alpha": 0.4
+  },
+  "spec": 2
+}
